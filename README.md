@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yunismaruf
-- 👀 I’m interested in Mobile development.
+- 👀 I’m interested in Mobile App development.
 - 🌱 I’m currently learning Flutter.
-- 📫 contact: yunismaruf@gmail.com
+- 📫 contact: yunismaruf.work@gmail.com
 
 <!---
 yunismaruf/yunismaruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
