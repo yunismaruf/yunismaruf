@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yunismaruf
 - 👀 I’m interested in Mobile App development.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently work as Flutter developer.
 - 📫 contact: yunismaruf.work@gmail.com
 
 <!---
